@@ -5,9 +5,11 @@
 node_modules/
 
 # Ignore build directory
-
-
 *dist
+
+# Ignore .vscode directory
+.vscode/
+
 
 
 
