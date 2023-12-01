@@ -1,5 +1,5 @@
-
+import React from "react";
 
 export function Hello() {
-    return <h1>Hello, React!</h1>;
+    return <h1>This is the Hello Component</h1>;
 }
