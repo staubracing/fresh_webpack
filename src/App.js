@@ -2,10 +2,10 @@ import React from 'react';
 import Hello from './components/Hello';
 
 
-function App() {
+export default function App() {
     return (
-        <div>
-            <h1>This is from the app.js file FRESH_WEBPACK</h1>
+        <div className='App'>
+            <h1>This is the live window DUMBASS!!!</h1>
             <Hello />
         </div>
     );
@@ -13,4 +13,4 @@ function App() {
 console.log('App.js is running!');
 console.log(`react version: ${React.version}`);
 
-export default App;
+
